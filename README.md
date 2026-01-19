@@ -2,7 +2,4 @@
 
 This is my JLS Academy test repo.
 
-
-
-***This*** is a second verification sans passphrase.
-
+Third verification using VS Code.
